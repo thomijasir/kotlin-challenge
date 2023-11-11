@@ -1,4 +1,3 @@
-import Helper.linearSearchTraversal
 
 data class Car(val brand: String, var model: String, val year: Int) {
   fun drive() {
